@@ -1345,14 +1345,15 @@ hi! link haskellOperators GruvboxBlue
 hi! link haskellBacktick haskellOperators
 
 hi! link haskellStatement GruvboxOrange
+hi! link haskellPragma GruvboxOrange
 
 hi! link haskellConditional GruvboxRed
 hi! link haskellKeyword GruvboxRed
 hi! link haskellLet GruvboxRed
 hi! link haskellWhere GruvboxRed
+hi! link haskellBottom GruvboxRed
 
 hi! link haskellDefault GruvboxAqua
-hi! link haskellBottom GruvboxAqua
 hi! link haskellBlockKeywords GruvboxAqua
 hi! link haskellImportKeywords GruvboxAqua
 hi! link haskellDeclKeyword GruvboxAqua
@@ -1361,7 +1362,6 @@ hi! link haskellDeriving GruvboxAqua
 hi! link haskellAssocType GruvboxAqua
 
 hi! link haskellNumber GruvboxPurple
-hi! link haskellPragma GruvboxPurple
 
 hi! link haskellString GruvboxGreen
 hi! link haskellChar GruvboxGreen
